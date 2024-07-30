@@ -1,3 +1,3 @@
-Croma Store - Minor project of 5th semester.
+Croma Store - Minor project
 <br>
 Author : Anant Soni
