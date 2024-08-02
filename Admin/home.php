@@ -3,6 +3,10 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Favicon -->
+    	<link href="../assests/images/cs.png" rel="icon">
+	
 	<title>Admin Login</title>
 	<style>
 		div.main
