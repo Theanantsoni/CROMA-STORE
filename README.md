@@ -11,12 +11,12 @@ CHECK FULL VIDEO ON YOUTUBE LINK :
 
 Click Here For Client-Side Website Video : 
 
-https://youtu.be/ZPVYS_kRZaA?si=i9wkT1WEJMm6cVrF
+
 
 
 Click Here For Admin-Side Website Video : 
 
-https://youtu.be/9mx5Szz2oaU?si=nlO6sL2Jn3NFt5lj
+
 
 
 LINKDIN ACCOUNT LINK :
