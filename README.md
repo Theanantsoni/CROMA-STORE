@@ -1,4 +1,4 @@
-Croma Store - Minor project
+Croma Store
 <br>
 Author : Anant Soni
 
