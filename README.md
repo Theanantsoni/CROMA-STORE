@@ -1,31 +1,20 @@
-𝐂𝐫𝐨𝐦𝐚 𝐒𝐭𝐨𝐫𝐞
+Croma Store
 <br>
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐀𝐧𝐚𝐧𝐭 𝐒𝐨𝐧𝐢
+Author : Anant Soni
 
+Croma Store Website Using PHP.
+[Client-Side & Admin-Side Website Project]
 
-𝐂𝐫𝐨𝐦𝐚 𝐒𝐭𝐨𝐫𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐔𝐬𝐢𝐧𝐠 𝐏𝐇𝐏. 
+Check Full Video on YouTube:
 
-[𝐂𝐥𝐢𝐞𝐧𝐭-𝐒𝐢𝐝𝐞 & 𝐀𝐝𝐦𝐢𝐧-𝐒𝐢𝐝𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭]
-
-
-𝐂𝐡𝐞𝐜𝐤 𝐅𝐮𝐥𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐋𝐢𝐧𝐤 :
-
-
-𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐥𝐢𝐞𝐧𝐭-𝐒𝐢𝐝𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐕𝐢𝐝𝐞𝐨 :
-
+Click Here for Client-Side Website Video:
 https://youtu.be/hwM8VRrTO0A?si=AGPiy6bezAQedb1c
 
-
-𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐀𝐝𝐦𝐢𝐧-𝐒𝐢𝐝𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞 𝐕𝐢𝐝𝐞𝐨 :
-
+Click Here for Admin-Side Website Video:
 https://youtu.be/pL8V_QB-GD4?si=1g2Qxc4nfDKibDb2
 
-
-𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐋𝐢𝐧𝐤 :
-
+LinkedIn Profile Link:
 https://www.linkedin.com/in/anant-soni-b737662a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-Project Planning Notes: 
-
+Project Planning Notes:
 https://github.com/Theanantsoni/CROMA-STORE/blob/main/A%20-%20FILES/Croma%20Store%20Website%20Planning%20Notes.pdf
-
