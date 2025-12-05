@@ -2,7 +2,7 @@ Croma Store
 <br>
 Author : Anant Soni
 
-Croma Store Website Using PHP.
+Croma Store Website Using PHP & MySql.
 [Client-Side & Admin-Side Website Project]
 
 Check Full Video on YouTube:
